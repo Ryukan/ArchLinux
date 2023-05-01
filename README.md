@@ -1,2 +1,7 @@
 # ArchLinux
-# Hello
+
+#### Set key map
+
+```bash
+loadkeys it
+```
